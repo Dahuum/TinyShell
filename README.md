@@ -11,11 +11,11 @@
 
 This project is about creating a shell called **Minishell** based on [bash](https://fr.wikipedia.org/wiki/Bourne-Again_shell) with a reduced set of rules.
 
-👩 **Aymano**
+🥷 **Aymano**
 
 * Github: [@Ayman](https://github.com/ayman-aa/)
 
-👩 **Abdurrahmano**
+🥷 **Abdurrahmano**
 
 * Github: [@48k483x](https://github.com/48k483x)
 

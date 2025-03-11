@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/48k483x">
+  <a href="https://github.com/Dahuum">
     <picture>
     <img alt="philosophers" src="https://user-images.githubusercontent.com/68693691/193606493-2969e425-6bad-44ce-97af-89fec62bee22.gif" width=500>
     </picture>
@@ -17,6 +17,6 @@ This project is about creating a shell called **Minishell** based on [bash](http
 
 🥷 **Abdurrahmano**
 
-* Github: [@48k483x](https://github.com/48k483x)
+* Github: [@48k483x](https://github.com/Dahuum)
 
 <!-- #serT7wa -->
